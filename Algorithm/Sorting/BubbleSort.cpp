@@ -1,11 +1,5 @@
 #include <iostream>
 #inlcude <utility>
-/*
-https://en.cppreference.com/w/cpp/algorithm/swap
-std::swap header file
-Defined in header <algorithm> (until C++11)
-Defined in header <utility> (since C++11)
-Defined in header <string_view> (since C++17)*/
 
 using namespace std;
 
